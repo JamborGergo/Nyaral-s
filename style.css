@@ -8,3 +8,16 @@
     left: 0;
     z-index: -1;
 }
+
+.navbar-brand{
+    font-size: 25px;
+}
+
+.container{
+    font-size: 20px;
+}
+
+.container{
+    background-color: rgba(182, 181, 181, 0.4);
+
+}
